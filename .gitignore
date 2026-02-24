@@ -1,0 +1,16 @@
+*.tex
+*.pyc
+*.svg
+*.md
+weeks/w01_setup_eda/media/
+weeks/w02_time_series_arima/media/
+weeks/w03_regression_classification/media/
+weeks/w04_svm_tuning/media/
+weeks/w05_trees_ensembles/media/
+weeks/w06_boosting_advanced/media/
+weeks/w07_clustering_dim_reduction/media/
+weeks/w08_neural_networks_intro/media/
+weeks/w09_training_cnn/media/
+weeks/w10_sequences_transformers/med
+weeks/w11_midterm_project/media/
+weeks/w12_case_studies/media/
