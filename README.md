@@ -61,6 +61,9 @@ Lecture animations for the Master's-level DMML course, built with [Manim Communi
 ### Gradient Boosting
 ![GradientBoosting](weeks/w06_boosting_shap/GradientBoosting.gif)
 
+### SHAP Values
+![SHAPValues](weeks/w06_boosting_shap/SHAPValues.gif)
+
 ---
 
 ## Running the animations yourself
