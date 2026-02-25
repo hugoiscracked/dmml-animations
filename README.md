@@ -7,59 +7,59 @@ Lecture animations for the Master's-level DMML course, built with [Manim Communi
 ## Week 02 — Time Series & ARIMA
 
 ### Time Series Decomposition
-<video src="weeks/w02_time_series_arima/Decomposition.mp4" controls width="100%"></video>
+![Decomposition](weeks/w02_time_series_arima/Decomposition.gif)
 
 ### Stationarity & Differencing
-<video src="weeks/w02_time_series_arima/Stationarity.mp4" controls width="100%"></video>
+![Stationarity](weeks/w02_time_series_arima/Stationarity.gif)
 
 ### AR(1) Process
-<video src="weeks/w02_time_series_arima/AR1.mp4" controls width="100%"></video>
+![AR1](weeks/w02_time_series_arima/AR1.gif)
 
 ### Forecast Cone
-<video src="weeks/w02_time_series_arima/ForecastCone.mp4" controls width="100%"></video>
+![ForecastCone](weeks/w02_time_series_arima/ForecastCone.gif)
 
 ---
 
 ## Week 03 — Regression & Classification
 
 ### Bias–Variance Tradeoff
-<video src="weeks/w03_regression_classification/BiasVariance.mp4" controls width="100%"></video>
+![BiasVariance](weeks/w03_regression_classification/BiasVariance.gif)
 
 ### Decision Boundary (Logistic Regression vs kNN)
-<video src="weeks/w03_regression_classification/DecisionBoundary.mp4" controls width="100%"></video>
+![DecisionBoundary](weeks/w03_regression_classification/DecisionBoundary.gif)
 
 ---
 
 ## Week 04 — SVMs & Model Tuning
 
 ### SVM Max-Margin
-<video src="weeks/w04_svm_tuning/SVMMargin.mp4" controls width="100%"></video>
+![SVMMargin](weeks/w04_svm_tuning/SVMMargin.gif)
 
 ### Kernel Trick
-<video src="weeks/w04_svm_tuning/KernelTrick.mp4" controls width="100%"></video>
+![KernelTrick](weeks/w04_svm_tuning/KernelTrick.gif)
 
 ### Cross-Validation
-<video src="weeks/w04_svm_tuning/CrossValidation.mp4" controls width="100%"></video>
+![CrossValidation](weeks/w04_svm_tuning/CrossValidation.gif)
 
 ---
 
 ## Week 05 — Trees & Ensembles
 
 ### Decision Tree (Splits & Depth)
-<video src="weeks/w05_trees_ensembles/DecisionTree.mp4" controls width="100%"></video>
+![DecisionTree](weeks/w05_trees_ensembles/DecisionTree.gif)
 
 ### Bagging & Bootstrap
-<video src="weeks/w05_trees_ensembles/Bagging.mp4" controls width="100%"></video>
+![Bagging](weeks/w05_trees_ensembles/Bagging.gif)
 
 ### Feature Importance (Permutation)
-<video src="weeks/w05_trees_ensembles/FeatureImportance.mp4" controls width="100%"></video>
+![FeatureImportance](weeks/w05_trees_ensembles/FeatureImportance.gif)
 
 ---
 
 ## Week 06 — Boosting
 
 ### Gradient Boosting
-<video src="weeks/w06_boosting_shap/GradientBoosting.mp4" controls width="100%"></video>
+![GradientBoosting](weeks/w06_boosting_shap/GradientBoosting.gif)
 
 ---
 
