@@ -1,7 +1,7 @@
 *.tex
 *.pyc
 *.svg
-*.md
+CONTEXT.md
 weeks/w01_setup_eda/media/
 weeks/w02_time_series_arima/media/
 weeks/w03_regression_classification/media/
