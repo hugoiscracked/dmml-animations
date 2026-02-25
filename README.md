@@ -66,6 +66,19 @@ Lecture animations for the Master's-level DMML course, built with [Manim Communi
 
 ---
 
+## Week 07 — Clustering & Dimensionality Reduction
+
+### K-Means (Lloyd's Algorithm + Elbow Method)
+![KMeans](weeks/w07_clustering_pca/KMeans.gif)
+
+### PCA (Principal Components + Projection + Explained Variance)
+![PCA](weeks/w07_clustering_pca/PCA.gif)
+
+### DBSCAN (ε-ball Expansion + Core/Border/Noise)
+![DBSCAN](weeks/w07_clustering_pca/DBSCAN.gif)
+
+---
+
 ## Running the animations yourself
 
 ```bash
