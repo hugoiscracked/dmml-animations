@@ -79,6 +79,19 @@ Lecture animations for the Master's-level DMML course, built with [Manim Communi
 
 ---
 
+## Week 08 — Neural Networks Intro
+
+### MLP Forward Pass
+![MLPForward](weeks/w08_neural_networks_intro/MLPForward.gif)
+
+### Gradient Descent
+![GradientDescent](weeks/w08_neural_networks_intro/GradientDescent.gif)
+
+### Activation Functions & Vanishing Gradient
+![ActivationFunctions](weeks/w08_neural_networks_intro/ActivationFunctions.gif)
+
+---
+
 ## Running the animations yourself
 
 ```bash
