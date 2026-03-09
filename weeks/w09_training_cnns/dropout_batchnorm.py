@@ -190,7 +190,7 @@ class DropoutBatchNorm(Scene):
 
         drop_note = (
             Text("dropped  (output = 0)", font_size=10, color=C_RED)
-            .next_to(train_p["hid_nodes"], RIGHT, buff=0.15)
+            .move_to([L_CX, -1.75, 0])
         )
         self.play(FadeIn(drop_note), run_time=0.22)
         self.wait(0.4)
@@ -218,7 +218,7 @@ class DropoutBatchNorm(Scene):
 
         scale_note = (
             Text("weights scaled by (1 - p)", font_size=10, color=C_BLUE)
-            .next_to(infer_p["hid_nodes"], LEFT, buff=0.15)
+            .move_to([R_CX, -1.75, 0])
         )
         self.play(FadeIn(scale_note), run_time=0.22)
 
@@ -342,11 +342,11 @@ class DropoutBatchNorm(Scene):
         # Gap annotation on left panel
         gap_note = (
             Text("large gap = overfitting", font_size=11, color=C_RED)
-            .move_to([-3.4, -1.85, 0])
+            .move_to([-3.4, -2.45, 0])
         )
         close_note = (
             Text("gap closed by dropout", font_size=11, color=C_GREEN)
-            .move_to([3.4, -1.85, 0])
+            .move_to([3.4, -2.45, 0])
         )
         self.play(FadeIn(gap_note), FadeIn(close_note), run_time=0.30)
         self.wait(2.0)
@@ -430,10 +430,10 @@ class DropoutBatchNorm(Scene):
         z0_out  = _zero_line(out_origin,  N, C_DIM)
 
         # ── Arrows between stages ─────────────────────────────────────────────
-        arr1 = Arrow([-2.35, -0.5, 0], [-1.35, -0.5, 0],
+        arr1 = Arrow([-2.85, -0.5, 0], [-1.80, -0.5, 0],
                      buff=0.05, color=C_DIM, stroke_width=1.4,
                      max_tip_length_to_length_ratio=0.22)
-        arr2 = Arrow([ 1.35, -0.5, 0], [ 2.35, -0.5, 0],
+        arr2 = Arrow([ 1.80, -0.5, 0], [ 2.85, -0.5, 0],
                      buff=0.05, color=C_DIM, stroke_width=1.4,
                      max_tip_length_to_length_ratio=0.22)
 

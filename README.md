@@ -92,6 +92,35 @@ Lecture animations for the Master's-level DMML course, built with [Manim Communi
 
 ---
 
+## Week 09 — Training Techniques & CNNs
+
+### Convolution (Sliding Filter + Feature Maps + Max Pooling)
+![Convolution](weeks/w09_training_cnns/Convolution.gif)
+
+### Dropout & Batch Normalization
+![DropoutBatchNorm](weeks/w09_training_cnns/DropoutBatchNorm.gif)
+
+### CNN Architecture (LeNet Pipeline + Hierarchical Features + Transfer Learning)
+![CNNArchitecture](weeks/w09_training_cnns/CNNArchitecture.gif)
+
+---
+
+## Week 10 — Sequences & Transformers
+
+### RNN vs LSTM (Unrolled RNN + Vanishing Gradient + LSTM Gates)
+![RNNvsLSTM](weeks/w10_sequences_transformers/RNNvsLSTM.gif)
+
+### Attention Mechanism (Seq2seq Bottleneck + Attention Weights + Self-Attention Matrix)
+![Attention](weeks/w10_sequences_transformers/Attention.gif)
+
+### Transformer Architecture (Positional Encoding + Encoder Layer + Classification Head)
+![Transformer](weeks/w10_sequences_transformers/Transformer.gif)
+
+### Practical Fine-Tuning (Pre-train Cost + Tokenization + Strategies + LR Sensitivity)
+![FineTuning](weeks/w10_sequences_transformers/FineTuning.gif)
+
+---
+
 ## Running the animations yourself
 
 ```bash
